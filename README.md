@@ -4,7 +4,7 @@
 
 Official implementation of Sherpa3D: Boosting High-Fidelity Text-to-3D Generation via Coarse 3D Prior
 
-[Fangfu Liu](https://mrtornado24.github.io/), Diankun Wu, [Yi Wei](https://weiyithu.github.io/), [Yongming Rao](https://raoyongming.github.io/), [Yueqi Duan](https://duanyueqi.github.io/)
+[Fangfu Liu](https://liuff19.github.io/), Diankun Wu, [Yi Wei](https://weiyithu.github.io/), [Yongming Rao](https://raoyongming.github.io/), [Yueqi Duan](https://duanyueqi.github.io/)
 
 
 <p align="center"> All Code will be released soon... 🏗️ 🚧 🔨</p>
