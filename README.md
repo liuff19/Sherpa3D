@@ -1,6 +1,6 @@
 # Sherpa3D: Boosting High-Fidelity Text-to-3D Generation via Coarse 3D Prior
 
-[**Paper**](https://liuff19.github.io/Sherpa3D/) | [**Project Page**](https://liuff19.github.io/Sherpa3D/) | [**Video**](https://liuff19.github.io/Sherpa3D/)
+[**Paper**](https://arxiv.org/abs/2312.06655) | [**Project Page**](https://liuff19.github.io/Sherpa3D/) | [**Video**](https://liuff19.github.io/Sherpa3D/)
 
 Official implementation of Sherpa3D: Boosting High-Fidelity Text-to-3D Generation via Coarse 3D Prior
 
@@ -36,6 +36,7 @@ fair comparison. We observe that baselines suffer from severe multi-face issues 
       title={Sherpa3D: Boosting High-Fidelity Text-to-3D Generation via Coarse 3D Prior}, 
       author={Fangfu Liu and Diankun Wu and Yi Wei and Yongming Rao and Yueqi Duan},
       year={2023},
+      eprint={2312.06655},
       archivePrefix={arXiv},
       primaryClass={cs.CV}
 }
