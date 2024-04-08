@@ -176,36 +176,13 @@ pyrightconfig.json
 # End of https://www.toptal.com/developers/gitignore/api/python
 
 .vscode/
-.threestudio_cache/
 outputs/
-outputs-gradio/
 
 # pretrained model weights
 *.ckpt
 *.pt
 *.pth
 
-# wandb
-wandb/
+shap_e_model_cache
 
-#ff-add
-download-sd-2-1-base
-configurations
-outputs-ff
-outputs-new
-outputs-seed
-
-samples
-shap_e
-
-sd-21-base
-sd-v15
-sd-xl-base
-t2v-model
-
-./shap_e/build/
-./shap_e/shap_e_model_cache/
-./shap_e/model_ckpts/
-./shap_e/shap_e.egg-info/
-./shap_e/shapE_inference/
 
