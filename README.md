@@ -1,6 +1,6 @@
  # <p align="center"> <span style="font-weight: bold;">Sherpa3D</span>: Boosting High-Fidelity Text-to-3D Generation via Coarse 3D Prior </p>
 
- #####  <p align="center"> [Fangfu Liu<sup>1</sup>](https://liuff19.github.io/), Diankun Wu, [Yi Wei<sup>1</sup>](https://weiyithu.github.io/), [Yongming Rao<sup>2</sup>](https://raoyongming.github.io/), [Yueqi Duan<sup>1</sup>](https://duanyueqi.github.io/)</p>
+ #####  <p align="center"> [Fangfu Liu<sup>1</sup>](https://liuff19.github.io/), Diankun Wu<sup>1</sup>, [Yi Wei<sup>1</sup>](https://weiyithu.github.io/), [Yongming Rao<sup>2</sup>](https://raoyongming.github.io/), [Yueqi Duan<sup>1</sup>](https://duanyueqi.github.io/)</p>
 
  ##### <p align="center"> <sup>1</sup>Tsinghua University, <sup>2</sup>BAAI</p>
  ##### <p align="center">  <span style="font-weight: bold;">CVPR (2024)</span></p>
