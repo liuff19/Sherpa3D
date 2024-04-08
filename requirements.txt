@@ -1,0 +1,16 @@
+clip
+diffusers==0.24.0
+glfw==2.7.0
+imageio==2.33.1
+imageio[ffmpeg]
+imageio[pyav]
+open3d==0.14.1
+opencv_python==4.8.1.78
+tqdm==4.66.1
+transformers==4.36.2
+xatlas==0.0.8
+Ninja
+accelerate
+git+https://github.com/NVlabs/nvdiffrast.git
+git+https://github.com/NVlabs/tiny-cuda-nn/#subdirectory=bindings/torch
+git+https://github.com/openai/shap-e.git
