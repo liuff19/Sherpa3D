@@ -101,7 +101,7 @@ python3  train.py --config path/to/your/config_geo/file
 ```
 
 ## Acknowledgement
-This repo benefits from [fantasia3D](https://github.com/Gorilla-Lab-SCUT/Fantasia3D), [shap-e](https://github.com/openai/shap-e) and [cap3d](https://github.com/crockwell/Cap3D). Thanks for their wonderful works.
+This repo benefits from [Fantasia3D](https://github.com/Gorilla-Lab-SCUT/Fantasia3D), [Shap-E](https://github.com/openai/shap-e) and [cap3d](https://github.com/crockwell/Cap3D). Thanks for their wonderful works.
 
 ## BibTex
 ```
