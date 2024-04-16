@@ -60,12 +60,12 @@ We provide some scripts and pre-defined configs to automatically run the geometr
 ```bash
 # Prompt: A head of Terracotta Army
 cd bash
-bash terracotta_army.sh 
+bash terracotta_army_1gpu.sh 
 ```
 ```bash
 # Prompt: A detailed and realistic 3D model of a vintage camera
 cd bash
-bash camera.sh
+bash camera_4gpu.sh
 ```
 We also provide scripts for some other prompts, which you can find in the "./bash" directory. The outputs will be saved in "./outputs/geometry" and "./outputs/appearance" respectively. 
 ### Custom training
